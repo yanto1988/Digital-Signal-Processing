@@ -1,3 +1,8 @@
+#### Kode-MK: IF3024 - Pengolahan Sinyal Digital 
+#### Prodi : Teknik Informatika
+#### Dosen Pengampu : Martin C.T. Manullang
+
+
 ## Analisis Sinyal Respirasi dan rPPG dari Video Webcam
 Proyek ini bertujuan untuk memproses sinyal fisiologis, yaitu sinyal respirasi dan photoplethysmography berbasis video (remote photoplethysmography atau rPPG), dari rekaman video menggunakan webcam. Data sinyal diekstraksi langsung dari frame video dengan teknik pemrosesan sederhana, seperti analisis intensitas piksel. Proses ini membantu dalam pengukuran kondisi fisiologis seseorang secara non-invasif.
 
